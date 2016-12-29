@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1482968202 source:c:\program1\project3\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"functions.h"
+	"savings.h"
+	"files.h"
+	"main1.h"
+
+1482963390 c:\program1\project3\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1482968202 source:c:\program1\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"functions.h"
+	"savings.h"
+	"winOrlose.h"
+
+1482969137 source:c:\program1\project3\files.c
+	<string.h>
+	"main1.h"
+	"functions.h"
+
+1482965024 c:\program1\project3\savings.h
+
+1482965024 c:\program1\project3\files.h
+
+1482962645 c:\program1\project3\main1.h
+
+1482962645 c:\program1\project3\winorlose.h
+
+1482968202 source:c:\program1\project3\winorlose.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"functions.h"
+	"main1.h"
+	"savings.h"
+	"files.h"
+
+1482968202 source:c:\program1\project3\savings.c
+	<string.h>
+	"main1.h"
+	"functions.h"
+	"files.h"
+
